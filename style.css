@@ -1,0 +1,48 @@
+/* colorgroup
+green: #1DD100
+general text:#030712
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.font-inter {
+    font-family: "Inter", sans-serif;
+}
+
+.font-raleway {
+    font-family: "Raleway", sans-serif;
+}
+
+.text-green {
+    color: #1DD100;
+}
+
+.text-gray {
+    color: #030712;
+}
+
+.bg-gray {
+    background-color: #F7F8F8;
+}
+
+/* border class */
+/* border-b border-dashed border-[#03071233] py-4 */
+
+/* id list
+
+button/element => id
+
+seat left counter => seats-left-counter
+id of seat number => seat-number (like: A1, B5, D9)
+Selected seat count => total-selected-seat
+coupon input box => coupon-input-box
+total price => total-price
+discount amount => total-discount
+grand price => grand-total
+Coupon apply button => coupon-apply-button
+passenger name => passenger-name
+Passenger phone => passenger-phone
+Passenger Email => passenger-email
+next button => next-button
+
+ */
